@@ -19,6 +19,7 @@ This module learns latent features of a balanced LUS dataset using different CNN
 
 This module is trained on positive(both images contain consolidation) and negative(either of the images contain consolidation) pairs of images. A contrastive loss encourages similar frames to cluster and dissimilar frames to separate in the embedding space. Frame-level binary classifier head is attached for determining the probability of whether a frame contains a small consolidation or not.
 
+[Model_architecture](Figure/NewClarusfigure.png)
 
 ## Relevant
 
