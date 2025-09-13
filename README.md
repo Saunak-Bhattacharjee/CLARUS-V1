@@ -32,4 +32,4 @@ Three CNN models were used to train and learn the latent features for both the m
 [EfficientNet-B0 path](https://www.dropbox.com/scl/fi/c062f5yikd2wbice7wowb/trained_efficientnet_contrastive_with_classifier_ssl.pth?rlkey=kropnhj6g74l0no2cphtwpey4&st=1dr3mhuk&dl=0)
 
 ## Note
-CLARUS V2 is another model that does video-level classification, which will be made public once it is published.
+CLARUS V2 is another advanced model that does video-level classification, which will be made public once it is published.
